@@ -2,9 +2,6 @@
   <img height="155" src="https://i.pinimg.com/564x/4a/d4/fe/4ad4fef79c0097177e379df350a9c3ee.jpg"  />
 </div>
 
-###
-
-
 
 ###
 
@@ -13,7 +10,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   
-  <a href = "discordapp.com/users/1038211606519222292" target="_blank">
+  <a href = "discordapp.com/users/1038211606519222292">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   
