@@ -50,6 +50,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/s/s/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Silvia-Mart/Silvia-Mart/main/snake.svg" alt="Snake animation" />
+
+###
+<div align="right">
+  <img height="200" src="https://i.pinimg.com/564x/44/d7/de/44d7de800ed32a3b84a95d2d394af70b.jpg"  />
+</div>
 
 ###
