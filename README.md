@@ -4,17 +4,24 @@
 
 ###
 
+
+
+###
+
 <div align="center">
-  <a href="Silvia sm#0997" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/silviasantosm/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/silvia-santos-222a58231/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  
+  <a href = "discordapp.com/users/1038211606519222292" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="santosmartinssilvia@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  
+  <a href = "mailto:santosmartinssilvia@gmail.com?subject = Feedback&body = Message">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
 
 ###
 
@@ -53,7 +60,7 @@
 <img src="https://raw.githubusercontent.com/Silvia-Mart/Silvia-Mart/main/snake.svg" alt="Snake animation" />
 
 ###
-<div align="right">
+<div align="center">
   <img height="200" src="https://i.pinimg.com/564x/44/d7/de/44d7de800ed32a3b84a95d2d394af70b.jpg"  />
 </div>
 
