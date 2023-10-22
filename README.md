@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">➜ Sou estudante de Análise e Desenvolvimento de Sistemas.<br>➜ Meu foco de trabalho é ser uma excelente programadora Back-End.<br>➜ Atualmente estou estudando Java e Python.<br>➜ No meu tempo livre gosto de ler e  aprender coisas novas.</p>
+<p align="left">➜ Sou estudante de Análise e Desenvolvimento de Sistemas.<br>➜ Meu foco de trabalho é ser uma excelente programadora<br>➜ Atualmente estou estudando Java e Python.<br>➜ No meu tempo livre gosto de ler e  aprender coisas novas.</p>
 
 ###
 
